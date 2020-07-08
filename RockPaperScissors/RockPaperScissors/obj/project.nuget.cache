@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TWtngwEerSoBpuxMHvO4ra0H71ubLw3MAjVRpPOkUGOycT6xwZzDXNqzBrlRF64AHwMSRMoKbVs8l38Iy7C3Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ctver\\source\\repos\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ctver\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
